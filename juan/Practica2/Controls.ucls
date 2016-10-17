@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="mx.edu.uam.practica3.control" project="Practica2" 
+    file="/Practica2/src/mx/edu/uam/practica3/control" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="194" x="132" y="35"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="mx.edu.uam.practica3.control.ControlRadio" project="Practica2" 
+    file="/Practica2/src/mx/edu/uam/practica3/control/ControlRadio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="149" x="64" y="127"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="mx.edu.uam.practica3.control.ControlTv" project="Practica2" 
+    file="/Practica2/src/mx/edu/uam/practica3/control/ControlTv.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="219" width="179" x="272" y="114"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="mx.edu.uam.practica3.control.ControlVentilador" project="Practica2" 
+    file="/Practica2/src/mx/edu/uam/practica3/control/ControlVentilador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="598" y="209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
